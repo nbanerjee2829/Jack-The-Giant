@@ -9,6 +9,3 @@ You score points as you collect coins while going down and you can check your hi
 You die if you hit a black cloud
 ![](page1.png)
 ![](page2.png)
-![](page3.png)
-![](page4.png)
-![](page5.png)
